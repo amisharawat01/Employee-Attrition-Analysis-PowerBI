@@ -1,6 +1,5 @@
 # 📊 Employee Attrition Analysis | Power BI
-Interactive Employee Attrition Analysis dashboard built using Power BI to analyze workforce attrition, employee satisfaction, demographics, and key HR metrics.
-
+Interactive HR analytics dashboard built in Power BI to analyze employee attrition, satisfaction, demographics, compensation, tenure, and retention patterns.
 ---
 
 ## 📌 Project Overview
@@ -24,14 +23,29 @@ The report contains **two purpose-built dashboards**:
 
 ---
 
-## 🗂️ Key Insights
+🔎 Business Questions
 
-* **Total Employees:** 1,470
-* **Attrition Count:** 237 
-* **Attrition Rate:** 16.2%
-* **Average Job Satisfaction:** 2.73 
-* **Average Monthly Salary:** ₹6.5K
-* **Average Tenure:** 7 years
+* **Which departments experience the highest employee attrition?
+* **How does attrition vary across age groups?
+* **Is overtime associated with higher employee attrition?
+* **How does attrition differ across business-travel categories?
+* **Does job satisfaction vary across employees who leave?
+* **Which job roles combine higher attrition with different income levels?
+* **Does attrition vary across employee tenure?
+* **How does attrition differ across performance ratings?
+
+---
+
+## 📊 Key Metrics
+
+| Metric | Value |
+|---|---:|
+| 👥 Total Employees | **1,470** |
+| 🚪 Attrition Count | **237** |
+| 📉 Attrition Rate | **16.2%** |
+| 😊 Average Job Satisfaction | **2.73** |
+| 💰 Average Monthly Income | **₹6.5K** |
+| ⏳ Average Tenure | **7 years** |
 
 ---
 
@@ -41,7 +55,7 @@ The report contains **two purpose-built dashboards**:
 
 * Power BI
 * Power Query
-* DAX(Attrition Rate and Averages)
+* DAX(KPI measures, attrition rate, employee count, averages and overtime attrition analysis)
 * Data Transformation
 * Data Modeling
 * KPI Development
