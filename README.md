@@ -41,7 +41,7 @@ The report contains **two purpose-built dashboards**:
 
 # 👩‍💻 Author
 
-**Amisha Rawat**
+**Amisha**
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization
 
