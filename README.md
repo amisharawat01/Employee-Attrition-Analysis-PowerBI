@@ -24,6 +24,16 @@ The report contains **two purpose-built dashboards**:
 
 ---
 
+📁 Key Insights
+Total Employees: 1k
+Attrition Count: 237
+Attrition Rate: 16.2%
+Average Age: 37 years
+Average Salary: ₹6.5K
+Average Tenure: 7 year
+
+---
+
 # 📚 Skills Demonstrated
 
 ### Technical Skills
