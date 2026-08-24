@@ -2,7 +2,7 @@
 Interactive HR analytics dashboard built in Power BI to analyze employee attrition, satisfaction, demographics, compensation, tenure, and retention patterns.
 ---
 
-## 📌** Project Overview**
+## 📌 Project Overview
 
 This project uses **Microsoft Power BI** to transform employee-level HR data into an interactive **Employee Attrition & Retention Analytics Dashboard**. The analysis examines attrition patterns across **departments, job roles, demographics, job satisfaction, tenure, overtime, business travel, performance, education, and compensation**.
 
@@ -15,7 +15,7 @@ The project combines **Power Query, DAX, KPI development, data visualization, an
 
 ---
 
-🔎 **Business Questions**
+🔎 ****Business Questions****
 
 * Which departments experience the highest employee attrition?
 * How does attrition vary across age groups?
