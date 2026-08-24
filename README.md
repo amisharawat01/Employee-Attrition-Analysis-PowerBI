@@ -24,11 +24,12 @@ The report contains **two purpose-built dashboards**:
 
 ---
 
-📁 Key Insights
-Total Employees: 1k
+## 📁 Key Insights
+
+Total Employees: 1470
 Attrition Count: 237
 Attrition Rate: 16.2%
-Average Age: 37 years
+Average Job Satisfaction: 2.73 
 Average Salary: ₹6.5K
 Average Tenure: 7 year
 
@@ -40,7 +41,7 @@ Average Tenure: 7 year
 
 * Power BI
 * Power Query
-* DAX
+* DAX(Attrition Rate and Averages)
 * Data Transformation
 * Data Modeling
 * KPI Development
@@ -48,11 +49,5 @@ Average Tenure: 7 year
 * Dashboard Design
 
 ---
-
-# 👩‍💻 Author
-
-**Amisha**
-
-Aspiring Data Analyst | Power BI | SQL | Excel | Data Visualization
 
 This project demonstrates practical skills in transforming raw employee data into an interactive business intelligence solution using Power BI.
