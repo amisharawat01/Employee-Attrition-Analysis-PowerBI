@@ -24,14 +24,14 @@ The report contains **two purpose-built dashboards**:
 
 ---
 
-## 📁 Key Insights
+## 🗂️ Key Insights
 
-Total Employees: 1470
-Attrition Count: 237
-Attrition Rate: 16.2%
-Average Job Satisfaction: 2.73 
-Average Salary: ₹6.5K
-Average Tenure: 7 year
+* **Total Employees:** 1,470
+* **Attrition Count:** 237 
+* **Attrition Rate:** 16.2%
+* **Average Job Satisfaction:** 2.73 
+* **Average Monthly Salary:** ₹6.5K
+* **Average Tenure:** 7 years
 
 ---
 
