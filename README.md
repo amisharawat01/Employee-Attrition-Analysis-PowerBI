@@ -15,16 +15,16 @@ The project combines **Power Query, DAX, KPI development, data visualization, an
 
 ---
 
-🔎 ****Business Questions****
+### 🔎 Business Questions
 
 * Which departments experience the highest employee attrition?
-* How does attrition vary across age groups?
+* How does attrition vary across different age groups?
 * Is overtime associated with higher employee attrition?
-* How does attrition differ across business-travel categories?
-* Does job satisfaction vary across employees who leave?
-* Which job roles combine higher attrition with different income levels?
-* Does attrition vary across employee tenure?
-* How does attrition differ across performance ratings?
+* How does attrition differ across business travel categories?
+* Does job satisfaction vary between employees who leave and those who stay?
+* Which job roles show higher attrition rates alongside different income levels?
+* Does employee attrition vary across different tenure groups?
+* How does attrition differ across performance rating categories?
 
 ---
 
