@@ -1,42 +1,34 @@
-# 📊 Employee Attrition Analysis | Power BI
+# 📊 **Employee Attrition Analysis | Power BI**
 Interactive HR analytics dashboard built in Power BI to analyze employee attrition, satisfaction, demographics, compensation, tenure, and retention patterns.
 ---
 
-## 📌 Project Overview
+## 📌** Project Overview**
 
-Employee attrition is an important workforce challenge because high employee turnover can increase recruitment costs, affect productivity, and create workforce instability.
+This project uses **Microsoft Power BI** to transform employee-level HR data into an interactive **Employee Attrition & Retention Analytics Dashboard**. The analysis examines attrition patterns across **departments, job roles, demographics, job satisfaction, tenure, overtime, business travel, performance, education, and compensation**.
 
-This project uses **Microsoft Power BI** to transform employee-level HR data into an interactive analytical dashboard focused on **attrition, employee satisfaction, workforce demographics, compensation, job roles, tenure, performance, and working conditions**.
+The report is structured into two analytical dashboards:
 
-* Monitor overall workforce and attrition KPIs
-* Identify employee groups with higher attrition
-* Compare attrition across departments and demographic segments
-* Analyze satisfaction and tenure patterns
-* Examine the relationship between income and attrition
-* Investigate job-role-level retention patterns
-* Interactively filter the analysis using multiple HR dimensions
+* **Attrition Overview** — Provides a high-level view of workforce size, attrition rate, and employee turnover across demographic and organizational segments.
+* **Satisfaction & Retention** — Explores employee satisfaction, tenure, job roles, income, education, and performance to identify patterns associated with employee retention and attrition.
 
-The report contains **two purpose-built dashboards**:
-
-1. **Attrition Overview**
-2. **Satisfaction & Retention**
+The project combines **Power Query, DAX, KPI development, data visualization, and interactive filtering** to convert raw HR data into a business-focused analytical tool that can help HR stakeholders identify areas requiring deeper investigation.
 
 ---
 
-🔎 Business Questions
+🔎 **Business Questions**
 
-* **Which departments experience the highest employee attrition?
-* **How does attrition vary across age groups?
-* **Is overtime associated with higher employee attrition?
-* **How does attrition differ across business-travel categories?
-* **Does job satisfaction vary across employees who leave?
-* **Which job roles combine higher attrition with different income levels?
-* **Does attrition vary across employee tenure?
-* **How does attrition differ across performance ratings?
+* Which departments experience the highest employee attrition?
+* How does attrition vary across age groups?
+* Is overtime associated with higher employee attrition?
+* How does attrition differ across business-travel categories?
+* Does job satisfaction vary across employees who leave?
+* Which job roles combine higher attrition with different income levels?
+* Does attrition vary across employee tenure?
+* How does attrition differ across performance ratings?
 
 ---
 
-## 📊 Key Metrics
+## 📊 **Key Metrics**
 
 | Metric | Value |
 |---|---:|
